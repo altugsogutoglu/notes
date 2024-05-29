@@ -4,4 +4,56 @@
 - Sublime Text (free)
 - PHP Storm (payed)
 
-#Local environment
+#Local environment (PHP, NodeJS, Valet, PHP Extensions)
+
+- Lararvel Herd 
+- PHP Monitor
+- Docker
+- Brew services
+
+#Database operations
+
+- Table Plus
+- Sequal Ace
+- Visual Studio Code: Database extension
+- RStudio
+- Excel
+- Elastron (ElasticSearch)
+
+#AI for coding
+
+- Github Copilot
+- Tabnine
+
+#AI for terminal/CLI
+
+- Amazon Q
+- Warp
+
+#FTP operations
+
+- FileZilla
+
+#API Testing
+
+- Postman
+
+#Password manager
+
+- 1Password
+
+#Authenticator apps
+
+- Google Authenticate
+- Authy
+
+#Planning
+
+- ClickUp
+- Gitlab
+- Github
+- Office365
+
+# Browser
+
+- Firefox
